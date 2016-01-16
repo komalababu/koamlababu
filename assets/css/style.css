@@ -332,8 +332,9 @@ ul {
 }
 #g h2
 {
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 300;
+	padding: 30px 30px 30px 30px;
 }
 
 /* GREEN SECTION - TESTIMONIAL */
